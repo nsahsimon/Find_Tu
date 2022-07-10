@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11879925594",
+    "project_id": "findtu-e081b",
+    "storage_bucket": "findtu-e081b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11879925594:android:6d11b554a62f4327319563",
+        "android_client_info": {
+          "package_name": "com.example.find_tu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11879925594-m730ondhv8tdu6ut4mi0urjna2le4lbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAT4u0raQBsNi7H8_NFV2PUh2aMf5ctpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11879925594-m730ondhv8tdu6ut4mi0urjna2le4lbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
